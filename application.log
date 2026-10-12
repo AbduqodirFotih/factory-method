@@ -1,0 +1,15 @@
+[2026-10-11 17:36:48.806] [INFO] [Worker-1] Controller: request from user1
+[2026-10-11 17:36:48.806] [INFO] [Worker-2] Controller: request from user2
+[2026-10-11 17:36:48.806] [INFO] [Worker-3] Controller: request from user3
+[2026-10-11 17:36:48.807] [INFO] [Worker-3] Service: charged 3000 UZS
+[2026-10-11 17:36:48.807] [INFO] [Worker-4] Controller: request from user4
+[2026-10-11 17:36:48.808] [INFO] [Worker-4] Service: charged 4000 UZS
+[2026-10-11 17:36:48.807] [INFO] [Worker-2] Service: charged 2000 UZS
+[2026-10-11 17:36:48.808] [DEBUG] [Worker-2] Utility: formatting 4096 bytes
+[2026-10-11 17:36:48.808] [DEBUG] [Worker-3] Utility: formatting 6144 bytes
+[2026-10-11 17:36:48.807] [INFO] [Worker-5] Controller: request from user5
+[2026-10-11 17:36:48.808] [DEBUG] [Worker-4] Utility: formatting 8192 bytes
+[2026-10-11 17:36:48.807] [INFO] [Worker-1] Service: charged 1000 UZS
+[2026-10-11 17:36:48.810] [INFO] [Worker-5] Service: charged 5000 UZS
+[2026-10-11 17:36:48.810] [DEBUG] [Worker-1] Utility: formatting 2048 bytes
+[2026-10-11 17:36:48.810] [DEBUG] [Worker-5] Utility: formatting 10240 bytes
